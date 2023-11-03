@@ -7,5 +7,14 @@
 ![RPS-OP4](https://github.com/Vishwanathanselvamoorthy/ROCK-PAPER-SCISSOR-JAVASCRIPT-PROJECT/assets/147639866/3ebf856e-a782-4fc4-af47-db5cfb4919ff)
 
 
+![RPS-OP5](https://github.com/Vishwanathanselvamoorthy/ROCK-PAPER-SCISSOR-JAVASCRIPT-PROJECT/assets/147639866/acec30a1-36ca-417f-8a19-9cbc5d1883b1)
+
+![RPS-OP6](https://github.com/Vishwanathanselvamoorthy/ROCK-PAPER-SCISSOR-JAVASCRIPT-PROJECT/assets/147639866/48706ffa-2b52-432e-a21a-6d297cb549b8)
+
+![RPS-OP7](https://github.com/Vishwanathanselvamoorthy/ROCK-PAPER-SCISSOR-JAVASCRIPT-PROJECT/assets/147639866/da266393-84c8-49b0-9e4f-ec4f067deade)
+
+
+
+
 
 
